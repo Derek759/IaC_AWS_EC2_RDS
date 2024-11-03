@@ -36,14 +36,36 @@ terraform apply
 
 *todas os ambientes e configurações a seguir já foram permanentemente excluídos
 
+### main_vpc
+
 ![main_vpc](./img/main_vpc.png)
+
+<br>
+
+### subnets
 
 ![subnets](./img/subnets.png)
 
+<br>
+
+### db-postgress
+
 ![db-postgress](./img/db-postgress.png)
+
+<br>
+
+### ec2_instance_a
 
 ![ec2_instance_a](./img/ec2_instance_a.png)
 
+<br>
+
+### ec2_instance_b
+
 ![ec2_instance_b](./img/ec2_instance_b.png)
+
+<br>
+
+### connection_test
 
 ![connection_test](./img/connection_test.png)
